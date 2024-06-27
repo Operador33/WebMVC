@@ -1,0 +1,14 @@
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfo.cs
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfo.cs
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cs
